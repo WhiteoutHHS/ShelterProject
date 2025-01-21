@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N7chd3wB60XtdsQvw/vXhb06PN0EesHbXCCuA6StxLo=",
+  "Hash": "uz2gZ9qB/Ygtvb6aHTuJAfWBcqq93VvMrArfRjibDMw=",
   "Source": "ShelterProject",
   "BasePath": "_content/ShelterProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ShelterProject\\wwwroot",
       "Source": "ShelterProject",
-      "ContentRoot": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
       "BasePath": "_content/ShelterProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ShelterProject.styles.css",
+      "Identity": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ShelterProject.styles.css",
       "SourceId": "ShelterProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ShelterProject",
       "RelativePath": "ShelterProject.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ShelterProject.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ShelterProject.styles.css"
     },
     {
-      "Identity": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShelterProject.bundle.scp.css",
+      "Identity": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShelterProject.bundle.scp.css",
       "SourceId": "ShelterProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ShelterProject",
       "RelativePath": "ShelterProject.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShelterProject.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShelterProject.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\app.css",
       "SourceId": "ShelterProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
       "BasePath": "_content/ShelterProject",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "ShelterProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
       "BasePath": "_content/ShelterProject",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ShelterProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
       "BasePath": "_content/ShelterProject",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\favicon.png",
       "SourceId": "ShelterProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\",
       "BasePath": "_content/ShelterProject",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

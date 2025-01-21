@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShelterProject.bundle.scp.css",
+      "Id": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShelterProject.bundle.scp.css",
       "PackagePath": "staticwebassets\\ShelterProject.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\app.css",
+      "Id": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

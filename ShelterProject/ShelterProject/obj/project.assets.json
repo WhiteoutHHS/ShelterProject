@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bosni\\.nuget\\packages\\": {}
+    "C:\\Users\\ALEX2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\ShelterProject.csproj",
+      "projectUniqueName": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\ShelterProject.csproj",
       "projectName": "ShelterProject",
-      "projectPath": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\ShelterProject.csproj",
-      "packagesPath": "C:\\Users\\bosni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bosni\\OneDrive\\Desktop\\Projects\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\",
+      "projectPath": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\ShelterProject.csproj",
+      "packagesPath": "C:\\Users\\ALEX2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ALEX2\\source\\repos\\ShelterProject\\ShelterProject\\ShelterProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bosni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ALEX2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShelterProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfbff7a6cf13e24e2fad4f133af8a90e66f3c7de")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShelterProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShelterProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
